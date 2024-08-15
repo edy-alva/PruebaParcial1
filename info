@@ -1,0 +1,11 @@
+Evaluación Parcial 1
+
+Por: Eduardo Alvarado
+
+Generar el código necesario para poder realizar las operaciones transaccionales básicas de base de datos (CRUD) en PHP, para lo cual debe realizar el o los modelos y controladores.
+
+Ejercicio elegido:
+
+22. Sistema de Gestión de Conferencias: Desarrolla una base de datos para gestionar conferencias y asistentes, incluyendo registros. 
+Tablas: `Conferencias` (conferencia_id, nombre, fecha, ubicacion, descripcion), `Asistentes` (asistente_id, nombre, apellido, email, telefono).
+
